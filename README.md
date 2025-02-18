@@ -14,8 +14,8 @@ Sou um desenvolvedor apaixonado por programação, sempre em busca de aprender n
 
 ## 🌱 Atualmente estou aprendendo
 - **Desenvolvimento de jogos** com Unity
-- **Machine Learning** e **Inteligência Artificial**
-- **Aprimoramento de Soft Skills** para trabalho em equipe
+- Aprimoramento de estudos com C#
+- **Aprimoramento de estudos com JavaScript
 
 ## 📬 Vamos nos conectar!
 - [LinkedIn](https://www.linkedin.com/in/iagohenriquetaveirabueno)
