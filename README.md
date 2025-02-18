@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por programação, sempre em busca de aprender n
 
 ## 📂 Projetos em destaque
 ### 🔥 [Henrique_type](https://github.com/IagoProgramer/Henrique_type)
-**Henrique_type** é um projeto desenvolvido para [descreva o objetivo ou funcionalidade do projeto]. O projeto utiliza [tecnologias e ferramentas] para [explique como ele resolve um problema ou oferece valor].
+**Henrique_type** é um projeto desenvolvido para aprimorar as habilidades de digitação e se divertir ao mesmo tempo, o projeto ainda esta em desenvolvimento, mas ja funciona bem.
 
 ## 🌱 Atualmente estou aprendendo
 - **Desenvolvimento de jogos** com Unity
