@@ -1,4 +1,4 @@
-# Olá, eu sou Iago Henrique Taveira Bueno 👋😍😍
+# Olá, eu sou Iago Henrique Taveira Bueno 👋
 
 ## 👨‍💻 Sobre mim
 Sou um desenvolvedor apaixonado por programação, sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Tenho experiência no desenvolvimento de jogos, sites e aplicativos, com foco em criar soluções eficientes e bem estruturadas. Além disso, sou entusiasta de desafios e colaborações em projetos de código aberto.
